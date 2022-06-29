@@ -49,5 +49,7 @@
 | 10주차 | DFS                    | [양](https://www.acmicpc.net/problem/3184)<br />[내리막 길](https://www.acmicpc.net/problem/1520)<br /><br />[한수](https://www.acmicpc.net/problem/1065)<br />[줄세우기](https://www.acmicpc.net/problem/2252) | `진행완료`  |
 | 11주차 | BFS                    | [N-Queen](https://www.acmicpc.net/problem/9663)<br />[테트로미노](https://www.acmicpc.net/problem/14500) | `진행완료`  |
 | 12주차 | 백트래킹               | [동전](https://www.acmicpc.net/problem/11047)<br />[부분수열의 합](https://www.acmicpc.net/problem/1182)<br />[N과 M(1)](https://www.acmicpc.net/problem/15649)<br />[그룹 단어 체커](https://www.acmicpc.net/problem/1316) | `진행완료`  |
-| 13주차 | dp, 백트래킹, dfs, bfs | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br />[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)<br />[좌표 정렬하기](https://www.acmicpc.net/problem/11650)<br />[소수 찾기](https://www.acmicpc.net/problem/1978) | `진행중`    |
+| 13주차 | dp, 백트래킹, dfs, bfs | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br />[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)<br />[좌표 정렬하기](https://www.acmicpc.net/problem/11650)<br />[소수 찾기](https://www.acmicpc.net/problem/1978) | `진행완료`  |
+| 14주차 | greedy, 정렬           | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)<br />[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행중`    |
+
 
